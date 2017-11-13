@@ -1,0 +1,14 @@
+﻿/* remove background */
+.qv-object-cubiq-change-sheet-actions {
+    background: none;
+}
+
+/* hide full screen icon */
+.qv-gridcell-cubiq-change-sheet-actions .qv-object-nav > a {
+    display: none;
+}
+
+/* hide border when object is not active in edit mode */
+.qv-gridcell-cubiq-change-sheet-actions:not(.active) {
+    border: none !important;
+}

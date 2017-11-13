@@ -1,0 +1,14 @@
+{
+  "name": "Cubiq Change Sheet Actions",
+  "description": "Change Sheet Actions",
+  "type": "visualization",
+  "version": "1.0.0",
+  "preview" : "img/cubiq-change-sheet-actions.png",
+  "icon": "extension",
+  "author": "Cubiq Analytics Oy",
+  "homepage": "http://cubiq.fi",
+  "keywords": "qlik-sense, visualization, actions, sheet",
+  "dependencies": {
+    "qlik-sense": ">=3.0.x"
+  }
+}
