@@ -3,7 +3,7 @@
 Extension for Qlik Sense
 
 Performs actions when user enters or leaves a sheet, similar to Sheet Event Trigger in QlikView. The extension does not contain any visualization and is intended to be invisible for users.
-One sheet can contain many actions of different types. Only one action of each type is supported (for example on enter sheet, clear all selections and select value in field). If multiple actions of same type are defined on a sheet, the last action will override previous actions of same type. The actions are executed in same order as they are defined.
+If multiple actions of same type are defined on a sheet, the last action will override previous actions of same type. The actions are executed in same order as they are defined.
 
 
 ### Triggers
